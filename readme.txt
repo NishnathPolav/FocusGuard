@@ -48,7 +48,7 @@ How It Works
 
 Acknowledgments
 
-This project was developed during the OneHack Hackathon and recognized as the Best Beginner Project. Special thanks to the organizers and mentors who made this possible!
+This project was developed during the OneHack Hackathon and recognized as the Best Beginner Project. Special thanks to the organizers who made this possible!
 
 
 Stay focused and eliminate distractions with FaceGuard! 💻✨
