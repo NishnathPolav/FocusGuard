@@ -1,6 +1,6 @@
 FaceGuard: AI-Powered Attention Monitoring
 
-This repository contains FaceGuard, our award-winning project from the OneHack Hackathon, where it won Best Beginner Project! FaceGuard is a cutting-edge software that leverages AI and Computer Vision to monitor attention levels in real-time, helping users stay focused by eliminating distractions.
+This repository contains FocusGaurd, our award-winning project from the OneHack Hackathon, where it won Best Beginner Project! FaceGuard is a cutting-edge software that leverages AI and Computer Vision to monitor attention levels in real-time, helping users stay focused by eliminating distractions.
 
 Features
 
@@ -13,7 +13,7 @@ Perfect for remote work, online learning, and productivity tracking. 🚀
 
 Installation
 
-To run FaceGuard, you’ll need to install the following libraries:
+To run FocusGaurd, you’ll need to install the following libraries:
 
 pip install opencv-python dlib playsound
 
@@ -29,8 +29,8 @@ Usage
 
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/faceguard.git
-cd faceguard
+git clone https://github.com/yourusername/FocusGaurd.git
+cd FocusGaurd
 
 
 	2.	Run the main script to start monitoring:
