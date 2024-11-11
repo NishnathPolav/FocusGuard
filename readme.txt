@@ -10,3 +10,12 @@ math
 tkinter
 datetime
 playsound
+
+Features
+
+	•	Real-Time Attention Detection: Uses facial recognition and behavioral analysis to assess focus.
+	•	Distraction Alerts: Notifies users when attention wanes.
+	•	Customizable Settings: Tailor sensitivity and feedback to your needs.
+	•	Privacy Focused: All data processing is done locally to ensure user privacy.
+
+Perfect for remote work, online learning, and productivity tracking. 🚀
