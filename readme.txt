@@ -1,5 +1,7 @@
 FocusGuard: AI-Powered Attention Monitoring
 
+By: Nishnath Polavarapu, Siddhartha Guntupalli
+
 This repository contains FocusGaurd, our award-winning project from the OneHack Hackathon, where it won Best Beginner Project! FaceGuard is a cutting-edge software that leverages AI and Computer Vision to monitor attention levels in real-time, helping users stay focused by eliminating distractions.
 
 Features
